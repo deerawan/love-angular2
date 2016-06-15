@@ -10,5 +10,14 @@ A Collection of tutorials, videos, books about Angular 2
 - [Codelyzer](https://github.com/mgechev/codelyzer) - A set of tslint rules for static code analysis of Angular 2 TypeScript projects.
 - [Angular Augury](https://augury.angular.io/) - A Google Chrome Dev Tools extension for debugging Angular 2 applications.
 
-### Plugins
-- [Material 2](http://materia.angular.io/)
+## Components
+- [Material 2](http://materia.angular.io/) - Material Design
+- [Push Notification](https://github.com/alexcastillo/ng2-notifications) - Native Push Notification
+- [Pagination](https://github.com/michaelbromley/ng2-pagination) - Full featured pagination
+
+### Editors
+Some extensions/plugins related to Angular 2 for your favorite editor
+
+## Visual Studio Code
+- [Angular 2 Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2) - Snippets for Angular 2
+- [Material 2 Snippets](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-material2-snippets) - Snippets for Material 2
