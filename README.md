@@ -7,6 +7,7 @@ A Collection of high quality tutorials, videos, books about Angular 2
 
 ## Videos
 Free videos about Angular 2
+- [NG Conf 2016](https://www.youtube.com/watch?v=J5Bvy4KhIs0&list=PLOETEcp3DkCq788xapkP_OU-78jhTf68j)
 - [Taking over Web Platform with Angular 2](https://vimeo.com/168517704) by Todd Moto
 
 ## Paid Courses
