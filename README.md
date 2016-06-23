@@ -1,7 +1,7 @@
 # Love Angular 2
 A Collection of high quality tutorials, videos, books about Angular 2
 
-## Articles
+## References
 Link to articles categorized by topic
 
 ### Router
@@ -9,8 +9,10 @@ Link to articles categorized by topic
 - [Learn Angular Router](http://victorsavkin.com/post/145672529346/angular-router)
 
 ### Angular CLI
+- [Angular CLI at NG Conf](https://www.youtube.com/watch?v=wHZe6gGI5RY)
 - [3rd Party Library Installation](https://github.com/angular/angular-cli/wiki/3rd-party-libs)
 - [Angular CLI: Adding Third Party Library](https://coryrylan.com/blog/angular-2-cli-adding-third-party-libraries)
+- [Angular CLI and Real Development Productivity](https://medium.com/@martin_hotell/angular-cli-and-real-development-productivity-4ba3c1865eda#.cuyo0m7wq)
 
 ## Videos
 Free videos about Angular 2
