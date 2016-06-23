@@ -14,10 +14,14 @@ Link to articles categorized by topic
 - [Angular CLI: Adding Third Party Library](https://coryrylan.com/blog/angular-2-cli-adding-third-party-libraries)
 - [Angular CLI and Real Development Productivity](https://medium.com/@martin_hotell/angular-cli-and-real-development-productivity-4ba3c1865eda#.cuyo0m7wq)
 
-## Videos
+## Free Videos
 Free videos about Angular 2
 - [NG Conf 2016](https://www.youtube.com/watch?v=J5Bvy4KhIs0&list=PLOETEcp3DkCq788xapkP_OU-78jhTf68j)
 - [Taking over Web Platform with Angular 2](https://vimeo.com/168517704) by Todd Moto
+
+## Free Books
+Curated links to free books about Angular 2
+- [Angular 2 Training](http://ngcourse.rangle.io/) by Rangle IO
 
 ## Paid Courses
 Some paid video courses related to Angular 2
