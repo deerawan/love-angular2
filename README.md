@@ -4,31 +4,31 @@ A Collection of high quality tutorials, videos, books about Angular 2
 ## References
 Link to articles categorized by topic
 
-### Router
+### 🗂 Router
 - [Routing](https://angular.io/docs/ts/latest/tutorial/toh-pt5.html) - Angular 2 Official Doc
 - [Routing in Angular 2 Revisited](http://blog.thoughtram.io/angular/2016/06/14/routing-in-angular-2-revisited.html)
 - [Learn Angular Router](http://victorsavkin.com/post/145672529346/angular-router)
 
-### Forms
+### 🗂 Forms
 - [Forms](https://angular.io/docs/ts/latest/guide/forms.html) - Angular 2 Official Doc
 - [Model Driven Form in Angular 2](http://blog.thoughtram.io/angular/2016/06/22/model-driven-forms-in-angular-2.html)
 
-### Angular CLI
+### 🗂 Angular CLI
 - [Angular CLI at NG Conf](https://www.youtube.com/watch?v=wHZe6gGI5RY)
 - [3rd Party Library Installation](https://github.com/angular/angular-cli/wiki/3rd-party-libs)
 - [Angular CLI: Adding Third Party Library](https://coryrylan.com/blog/angular-2-cli-adding-third-party-libraries)
 - [Angular CLI and Real Development Productivity](https://medium.com/@martin_hotell/angular-cli-and-real-development-productivity-4ba3c1865eda#.cuyo0m7wq)
 
-## Free Videos
+## 🎞 Free Videos
 Free videos about Angular 2
 - [NG Conf 2016](https://www.youtube.com/watch?v=J5Bvy4KhIs0&list=PLOETEcp3DkCq788xapkP_OU-78jhTf68j)
 - [Taking over Web Platform with Angular 2](https://vimeo.com/168517704) by Todd Moto
 
-## Free Books
+## 📖 Free Books
 Curated links to free books about Angular 2
 - [Angular 2 Training](http://ngcourse.rangle.io/) by Rangle IO
 
-## Paid Courses
+## 🎥 Paid Courses
 Some paid video courses related to Angular 2
 
 ### PluralSight
