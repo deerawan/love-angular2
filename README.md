@@ -5,10 +5,12 @@ A Collection of high quality tutorials, videos, books about Angular 2
 Link to articles categorized by topic
 
 ### Router
+- [Routing](https://angular.io/docs/ts/latest/tutorial/toh-pt5.html) - Angular 2 Official Doc
 - [Routing in Angular 2 Revisited](http://blog.thoughtram.io/angular/2016/06/14/routing-in-angular-2-revisited.html)
 - [Learn Angular Router](http://victorsavkin.com/post/145672529346/angular-router)
 
 ### Forms
+- [Forms](https://angular.io/docs/ts/latest/guide/forms.html) - Angular 2 Official Doc
 - [Model Driven Form in Angular 2](http://blog.thoughtram.io/angular/2016/06/22/model-driven-forms-in-angular-2.html)
 
 ### Angular CLI
