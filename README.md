@@ -38,6 +38,9 @@ Some paid video courses related to Angular 2
 ### TutsPlus
 - [Get Started With Angular 2](http://code.tutsplus.com/courses/get-started-with-angular-2)
 
+### Udemy
+- [Angular 2 from the Ground Up](https://www.udemy.com/angular-2-from-the-ground-up)
+
 ## Tools
 - [Angular CLI](https://cli.angular.io/) - CLI to generate angular 2 project and files
 - [Codelyzer](https://github.com/mgechev/codelyzer) - A set of tslint rules for static code analysis of Angular 2 TypeScript projects.
