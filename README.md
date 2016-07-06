@@ -1,6 +1,9 @@
 # Love Angular 2
 A Collection of high quality tutorials, videos, books about Angular 2
 
+## Getting Started
+[Ng2 Getting Started For Beginner](http://juristr.com/blog/2016/06/ng2-getting-started-for-beginners/)
+
 ## References
 Link to articles categorized by topic
 
@@ -27,6 +30,9 @@ Free videos about Angular 2
 ## 📖 Free Books
 Curated links to free books about Angular 2
 - [Angular 2 Training](http://ngcourse.rangle.io/) by Rangle IO
+
+## 🎥 Free Courses
+- [Introduction to Angular 2.0](https://mva.microsoft.com/en-US/training-courses/introduction-to-angular-20-16540?l=cdKMEZyfC_906218965)
 
 ## 🎥 Paid Courses
 Some paid video courses related to Angular 2
@@ -58,3 +64,6 @@ Some extensions/plugins related to Angular 2 for your favorite editor
 ### Visual Studio Code
 - [Angular 2 Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2) - Snippets for Angular 2
 - [Material 2 Snippets](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-material2-snippets) - Snippets for Material 2
+
+### Atom
+- [Material 2 Snippets](https://atom.io/packages/atom-material2-snippets)
