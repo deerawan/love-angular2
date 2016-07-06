@@ -57,6 +57,7 @@ Some paid video courses related to Angular 2
 - [Push Notification](https://github.com/alexcastillo/ng2-notifications) - Native Push Notification
 - [Pagination](https://github.com/michaelbromley/ng2-pagination) - Full featured pagination
 - [Table/Grid](http://valor-software.com/ng2-table/) - Table/Grid
+- [Data Table](https://github.com/swimlane/angular2-data-table) - Data Table
 
 ## Editors
 Some extensions/plugins related to Angular 2 for your favorite editor
