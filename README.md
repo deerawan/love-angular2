@@ -53,11 +53,12 @@ Some paid video courses related to Angular 2
 - [Angular Augury](https://augury.angular.io/) - A Google Chrome Dev Tools extension for debugging Angular 2 applications.
 
 ## Components
-- [Material 2](http://material.angular.io/) - Material Design
-- [Push Notification](https://github.com/alexcastillo/ng2-notifications) - Native Push Notification
-- [Pagination](https://github.com/michaelbromley/ng2-pagination) - Full featured pagination
-- [Table/Grid](http://valor-software.com/ng2-table/) - Table/Grid
-- [Data Table](https://github.com/swimlane/angular2-data-table) - Data Table
+- [Color Picker](https://github.com/swimlane/angular2-color-picker)
+- [Material 2](http://material.angular.io/)
+- [Native Push Notification](https://github.com/alexcastillo/ng2-notifications)
+- [Pagination](https://github.com/michaelbromley/ng2-pagination)
+- [Table/Grid](http://valor-software.com/ng2-table/)
+- [Data Table](https://github.com/swimlane/angular2-data-table)
 
 ## Editors
 Some extensions/plugins related to Angular 2 for your favorite editor
