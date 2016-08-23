@@ -60,6 +60,7 @@ Some paid video courses related to Angular 2
 - [Table/Grid](http://valor-software.com/ng2-table/)
 - [Data Table](https://github.com/swimlane/angular2-data-table)
 - [Google Map](https://github.com/SebastianM/angular2-google-maps)
+- [Bootstrap](https://github.com/ng-bootstrap/ng-bootstrap)
 
 ## Editors
 Some extensions/plugins related to Angular 2 for your favorite editor
