@@ -34,6 +34,9 @@ Curated links to free books about Angular 2
 ## 🎥 Free Courses
 - [Introduction to Angular 2.0](https://mva.microsoft.com/en-US/training-courses/introduction-to-angular-20-16540?l=cdKMEZyfC_906218965)
 
+## 📖 Paid Books
+- [Router](https://leanpub.com/router)
+
 ## 🎥 Paid Courses
 Some paid video courses related to Angular 2
 
